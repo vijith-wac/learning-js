@@ -3,6 +3,7 @@ import ObjectDestructuring from "./components/destructuring/objectDestructuring"
 import FunCombining from "./components/destructuring/functionCombining"
 import ArrayMethods from "./wrapper/arrayMethods"
 import ObjectMethods from "./wrapper/objectMethods"
+import PromisesJS from "./wrapper/promises";
 export default function Home() {
   return (
     <div>
@@ -11,7 +12,8 @@ export default function Home() {
       {/* <ObjectDestructuring/> */}
       {/* <FunCombining/> */}
       {/* <ArrayMethods/> */}
-      <ObjectMethods/>
+      {/* <ObjectMethods/> */}
+      <PromisesJS/>
 
 
     </div>
