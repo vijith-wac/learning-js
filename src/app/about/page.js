@@ -1,12 +1,12 @@
-// app/page.js
+// app/about/page.js
 import { useTranslations } from 'next-intl';
 
-export default function HomePage() {
+export default function AboutPage() {
   const t = useTranslations();
 
   return (
     <div>
-      <h1>{t('welcome')}</h1>
+      <h1>{t('about')}</h1>
       <p>{t('description')}</p>
     </div>
   );
