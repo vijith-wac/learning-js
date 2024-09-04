@@ -1,0 +1,143 @@
+{
+    "data": {
+        "header": {
+            "id": 1,
+            "createdAt": "2024-08-12T04:52:22.020Z",
+            "updatedAt": "2024-08-12T04:52:22.020Z",
+            "locale": "en-AE",
+            "menu": [
+                {
+                    "id": 1,
+                    "text": "Home",
+                    "link": "/",
+                    "sub_menus": []
+                },
+                {
+                    "id": 6,
+                    "text": "Products",
+                    "link": "our-products",
+                    "sub_menus": [
+                        {
+                            "id": 37,
+                            "text": "Rental Products",
+                            "value": "/"
+                        },
+                        {
+                            "id": 38,
+                            "text": "Selling Products",
+                            "value": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Services",
+                    "link": "our-services",
+                    "sub_menus": []
+                },
+                {
+                    "id": 3,
+                    "text": "Rental",
+                    "link": "rental-services",
+                    "sub_menus": []
+                },
+                {
+                    "id": 4,
+                    "text": "Projects",
+                    "link": "our-projects",
+                    "sub_menus": []
+                },
+                {
+                    "id": 5,
+                    "text": "Company",
+                    "link": "about-us",
+                    "sub_menus": []
+                }
+            ]
+        },
+        "country": [
+            {
+                "label": "UAE",
+                "value": "en-AE"
+            },
+            {
+                "label": "Kuwait",
+                "value": "en-KW"
+            }
+        ],
+        "footer": {
+            "social_media": [],
+            "footer": [
+                {
+                    "text": "Home",
+                    "url": "/"
+                },
+                {
+                    "text": "About us",
+                    "url": "about-us"
+                },
+                {
+                    "text": "Projects",
+                    "url": "our-projects"
+                },
+                {
+                    "text": "Rental",
+                    "url": "rental-service"
+                },
+                {
+                    "text": "Services",
+                    "url": "our-services"
+                },
+                {
+                    "text": "Products",
+                    "url": "our-products"
+                },
+                {
+                    "text": "Our Partners",
+                    "url": "our-partners"
+                },
+                {
+                    "text": "Career",
+                    "url": "careers"
+                },
+                {
+                    "text": "Media",
+                    "url": "media"
+                },
+                {
+                    "text": "Blog",
+                    "url": "blogs"
+                },
+                {
+                    "text": "Quality Policy",
+                    "url": "quality-policy"
+                },
+                {
+                    "text": "Contact us",
+                    "url": "contact-us"
+                },
+                {
+                    "text": "Terms of Use",
+                    "url": "/"
+                },
+                {
+                    "text": "Privacy Policy",
+                    "url": "/"
+                },
+                {
+                    "text": "Cookie Policy",
+                    "url": "/"
+                }
+            ],
+            "button": {
+                "text": "Talk To Our Expert",
+                "url": "contact-us",
+                "target": false
+            },
+            "address": "19th St - Al Qusais Industrial Area\n-Al Qusais Industrial Areal, Dubai",
+            "contact_number": "+9714 2588155",
+            "email": "enquiries@gulfinconme.com",
+            "direction": "/"
+        }
+    }
+}

@@ -7,8 +7,8 @@ const ObjectMethods =()=>{
         <div>
             <h2>Object Method</h2>
             {/* <BasicConcepts/> */}
-            {/* <IntermediateConcepts/> */}
-            <AdvancedConcepts/>
+            <IntermediateConcepts/>
+            {/* <AdvancedConcepts/> */}
         </div>
     )
 }

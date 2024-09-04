@@ -1,5 +1,8 @@
-"use client";
-const IntermediateConcepts = () => {
+import data from'./data.json'
+
+const IntermediateConcepts = async() => {
+  const fullData = await data
+  console.log(fullData.header,'full data')
   //Methods
   //Adding Methods
   let person = {
@@ -58,6 +61,7 @@ const IntermediateConcepts = () => {
 //   objSeal.age = 20
   console.log(objSeal,'seal object')
   
+
 
 
 };
